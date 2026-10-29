@@ -25,7 +25,7 @@ The full catalog (130+ apps) lives at **[obelisk.club](https://obelisk.club)**.
 ## Principles
 
 - **On-device by default** — no accounts, no tracking, no cloud middleman
-- **Buy once** — one-time unlocks, never subscriptions for utility apps
+- **Buy once, mostly** — paid features are mostly a one-time unlock; a few apps also offer an optional subscription next to a lifetime purchase
 - **Small tools, done well** — each app solves one problem precisely
 
 ## Contact
