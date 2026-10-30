@@ -30,4 +30,4 @@ The full catalog (130+ apps) lives at **[obelisk.club](https://obelisk.club)**.
 
 ## Contact
 
-📮 obeliskclubclub@gmail.com · 🌐 [obelisk.club](https://obelisk.club)
+📮 obeliskclubclub@gmail.com · 🌐 [obelisk.club](https://obelisk.club) · 𝕏 [@peterzhang0216](https://x.com/peterzhang0216)
